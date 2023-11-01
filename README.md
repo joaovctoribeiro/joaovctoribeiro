@@ -1,6 +1,6 @@
 # Olá! Eu sou o João Ribeiro. 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/joão-ribeiro-26216023a)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joão-ribeiro-26216023a)
 
 <hr>
 
