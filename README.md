@@ -1,9 +1,5 @@
 # Olá! Eu sou o João Ribeiro. 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joão-ribeiro-26216023a)
-
-<hr>
-
 ### Tecnologias que uso nos meus projetos:
 
 <div style="display: inline_block">
